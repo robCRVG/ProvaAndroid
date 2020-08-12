@@ -187,10 +187,12 @@
             android:layout_marginLeft="150dp"/>
 
         <ImageView
+            android:id="@+id/ivNunvemOn"
             android:layout_width="54dp"
             android:layout_height="30dp"
             android:src="@drawable/ic_nuvem_on_foreground" />
         <ImageView
+            android:id="@+id/ivNuvemOff"
             android:layout_width="54dp"
             android:layout_height="30dp"
             android:src="@drawable/ic_nuvem_off_foreground"/>

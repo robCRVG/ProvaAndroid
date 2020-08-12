@@ -3,4 +3,23 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="fundoTela">#FFFFFF</color>
+    <color name="toolbar">#186096</color>
+    <color name="statusBar">#186096</color>
+    <color name="fundoTelaCards">#F1F1F1</color>
+    <color name="fundoCards">#FFFFFF</color>
+    <color name="bottomNavigation">#186096</color>
+    <color name="iconeTextoAtivosBottom">#FFFFFF</color>
+    <color name="iconeTextoInativosBottom">#95B6CF</color>
+    <color name="iconesBotoes">#00386C</color>
+    <color name="textosBotoes">#232323</color>
+    <color name="statusConexao">#727272</color>
+    <color name="clienteTextos">#000000</color>
+    <color name="clienteLabelTextos">#95989A</color>
+    <color name="clienteRazaoSocial">#606060</color>
+    <color name="clienteBotaoTelefone">#186096</color>
+    <color name="clienteBotaoEmail">#C1392B</color>
+    <color name="clienteBotaoVerificarStatus">#638735</color>
+
+
 </resources>

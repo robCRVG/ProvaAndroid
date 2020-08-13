@@ -1,10 +1,12 @@
-package br.com.provaandroid;
+package br.com.provaandroid.activitys;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+
+import br.com.provaandroid.R;
 
 public class SplashScreen extends AppCompatActivity {
 

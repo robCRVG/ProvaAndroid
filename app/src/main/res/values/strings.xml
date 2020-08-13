@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">maxApp</string>
+    <string name="VerificarStatus">Verificar status do cliente</string>
 </resources>
